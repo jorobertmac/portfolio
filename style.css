@@ -1,0 +1,13 @@
+.sticky-top {
+  background-color: #fff;
+}
+
+.project-image {
+  width: 100%;
+  max-width: 400px;
+  margin: 1rem 0;
+}
+
+.social-link {
+  width: 100px;
+}
